@@ -6,11 +6,11 @@
 
 I'm Sina, and I'm a Front-end developer. I love JavaScript and I like to learn new technologies to create cool projects.
 
-🌱 Currently I'm learning Three.js and Back-end development with Node.js.
-🎓 I'm studying Computer Science in college.
-📖 I would be happy to contribute to open source projects.
-🏓 My hobbies are: 🥊🏍️🎸🎮.
-📄 Here's a link to my [Resume](https://www.mediafire.com/file/niwr5m695toije4/SinaKazemi_Resume.pdf/file) and the projects that I've created.
+🌱 Currently I'm learning Three.js and Back-end development with Node.js.&nbsp;
+🎓 I'm studying Computer Science in college.&nbsp;
+📖 I would be happy to contribute to open source projects.&nbsp;
+🏓 My hobbies are: 🥊🏍️🎸🎮.&nbsp;
+📄 Here's a link to my [Resume](https://www.mediafire.com/file/niwr5m695toije4/SinaKazemi_Resume.pdf/file) and the projects that I've created.&nbsp;
 
 ### 💻 Tech Stack
 
