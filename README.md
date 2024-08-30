@@ -1,7 +1,5 @@
 # Hello 👋😀
 
----
-
 ### 🧑‍💻 About Me
 
 I'm Sina, and I'm a Front-end developer. I love JavaScript and I like to learn new technologies to create cool projects.
